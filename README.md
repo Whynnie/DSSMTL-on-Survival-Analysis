@@ -1,2 +1,2 @@
 # DSSMTL-on-Survival-Analysis
-Survival Analysis using Deep Semi-Supervised Multitask Learning
+SURVIVAL ANALYSIS USING DEEP SEMI-SUPERVISED MULTITASK LEARNING ALGORITHM
